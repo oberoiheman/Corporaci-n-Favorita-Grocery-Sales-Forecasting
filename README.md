@@ -2,7 +2,7 @@
 This Case Study is all about forecasting unit sales of items for the Ecuadorian supermarket chain 'Corporación Favorita' to improve inventory management.
 Corporación Favorita is a large Ecuadorian-based grocery retailer which operate hundreds of supermarkets, with over 200,000 different products on their shelves.
 
-Objective -> Predicting the unit sales for thousands of items sold at different Favorita stores located in Ecuador.
+Objective -> Predicting the unit sales for 16 days in future for thousands of items sold at different Favorita stores located in Ecuador.
 
 Business Problem -> The Grocery Retailer (Corporación Favorita) can basically face two of the following problems:
 
